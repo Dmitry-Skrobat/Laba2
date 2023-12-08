@@ -1,0 +1,4 @@
+﻿  Labs.cpp
+D:\Labs\Labs.cpp(43,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Labs\Labs.cpp(112,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Labs.vcxproj -> D:\Labs\x64\Debug\Labs.exe
